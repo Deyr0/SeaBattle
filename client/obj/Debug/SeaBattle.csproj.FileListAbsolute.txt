@@ -1,0 +1,12 @@
+D:\экзамены\4 семестр\прога\SeaBattle\obj\Debug\SeaBattle.Form1.resources
+D:\экзамены\4 семестр\прога\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+D:\экзамены\4 семестр\прога\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+D:\экзамены\4 семестр\прога\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+D:\экзамены\4 семестр\прога\SeaBattle\bin\Debug\SeaBattle.exe.config
+D:\экзамены\4 семестр\прога\SeaBattle\bin\Debug\SeaBattle.exe
+D:\экзамены\4 семестр\прога\SeaBattle\bin\Debug\SeaBattle.pdb
+D:\экзамены\4 семестр\прога\SeaBattle\obj\Debug\SeaBattle.Form2.resources
+D:\экзамены\4 семестр\прога\SeaBattle\obj\Debug\SeaBattle.exe
+D:\экзамены\4 семестр\прога\SeaBattle\obj\Debug\SeaBattle.pdb
+D:\экзамены\4 семестр\прога\SeaBattle\obj\Debug\SeaBattle.Form3.resources
+D:\экзамены\4 семестр\прога\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
